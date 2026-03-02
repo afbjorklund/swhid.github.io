@@ -99,3 +99,18 @@ implementations:
       - path
       - lines
       - bytes
+
+  - name: "go-swhid"
+    repository: "https://github.com/afbjorklund/go-swhid"
+    language: "Go"
+    maintainer: "Anders F Björklund"
+    description: "Go implementation of the SWHID standard"
+    license: "Apache-2.0"
+    license_url: "https://github.com/afbjorklund/go-swhid/blob/main/LICENSE"
+    types:
+      - cnt
+      - dir
+      - rev
+      - rel
+      - snp
+    qualifiers:
