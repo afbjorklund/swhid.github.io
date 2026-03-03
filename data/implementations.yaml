@@ -114,3 +114,9 @@ implementations:
       - rel
       - snp
     qualifiers:
+      - origin
+      - visit
+      - anchor
+      - path
+      - lines
+      - bytes
